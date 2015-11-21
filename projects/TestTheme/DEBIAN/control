@@ -1,0 +1,8 @@
+Package: com.mcpeclasher.colourfulcydia
+Name: colourfulcydia
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This makes cydia more colourful
+Maintainer: William Thomson (MCPE Clasher) <williamdt10@icloud.com>
+Author: William Thomson (MCPE Clasher) <williamdt10@icloud.com>
+Section: Themes (Springboard)
